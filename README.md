@@ -11,7 +11,8 @@
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcos-Delphi" height="30" width="40" src="https://img.icons8.com/officel/1x/delphi-ide.png">  
+  <img align="center" alt="Marcos-Delphi" height="30" width="40" src="https://img.icons8.com/officel/1x/delphi-ide.png">
+  <img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/226/226777.png">  
 </div>
 
 ##
