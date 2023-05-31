@@ -1,7 +1,7 @@
 ### Ola!! Eu sou Marcos Aurélio 👋
 
 - 🔭 No momento só estou estudando.
-- 🌱 Eu estou participando do Bootcamp do banco Pan na Dio.
+- 🌱 Eu estou participando do processo do banco Santander.
 - 👯 Estou procurando colaborar em back-end
 - 🤔 Estou procurando ajuda com minha transição de carreira.
 
