@@ -2,6 +2,7 @@
 
 - 🔭 No momento só estou estudando.
 - 🌱 Eu estou participando do processo do IFood.
+- 👍 Paricipando do curso Python com ciência de dados - DIO
 - 👯 Estou procurando colaborar em back-end
 - 🤔 Estou procurando ajuda com minha transição de carreira.
 
